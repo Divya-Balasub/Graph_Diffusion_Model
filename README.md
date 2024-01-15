@@ -1,0 +1,1 @@
+This project implements diffusion of the graphs similar to denoising diffusion of images. E3 GNNs were used for denoising the graphs. A trained model can sample gaussian noise and generate graphs like molecules.
